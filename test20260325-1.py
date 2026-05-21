@@ -13,7 +13,7 @@ from typing import List, Dict, Tuple, Any
 from datetime import datetime
 
 # =================配置区域=================
-DASHSCOPE_API_KEY = "sk-56546448fc8045ef9550b3d0646298b4"  # 【重要】请替换为您的阿里云 DashScope API Key
+DASHSCOPE_API_KEY = "sk-56546448fc8045ef9550b3d06462"  # 【重要】请替换为您的阿里云 DashScope API Key
 dashscope.api_key = DASHSCOPE_API_KEY
 
 VISION_MODEL = "qwen-vl-max-latest"
